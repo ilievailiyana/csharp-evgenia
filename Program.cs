@@ -5,6 +5,6 @@ class Program
 {
     static void Main()
     {
-        ANDandOR.Run();
+        Evgenia.Lesson3and4.ForLoop.Run();
     }
 }
