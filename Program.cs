@@ -5,6 +5,6 @@ class Program
 {
     static void Main()
     {
-        Evgenia.Lesson3and4.ForLoop.Run();
+        Evgenia.Lesson3and4.whileLoop.Run();
     }
 }
